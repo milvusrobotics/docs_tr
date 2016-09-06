@@ -119,7 +119,7 @@ Buradaki ``&&`` karakterleri ise aynı anda birden çok komutu tek enter'la girm
 	$ whoami && sudo whoami
 
 
-Kayıtlı depolardan bir program yüklemek çok basit bir işlemdir. Şu ön ek ile: ``sudo apt-get install `` bir sürü program yükleyebilirsiniz. Kaldırmak için de aynısının: ``sudo apt-get remove `` versiyonunu kullanabilirsiniz. Eğer ROS'u yüklemişseniz, MRP2'nin gazebo simülasyon paketlerini aşağıdaki komutla yükleyebilirsiniz:
+Kayıtlı depolardan bir program yüklemek çok basit bir işlemdir. Şu ön ek ile: ``sudo apt-get install`` bir sürü program yükleyebilirsiniz. Kaldırmak için de aynısının: ``sudo apt-get remove`` versiyonunu kullanabilirsiniz. Eğer ROS'u yüklemişseniz, MRP2'nin gazebo simülasyon paketlerini aşağıdaki komutla yükleyebilirsiniz:
 
 ::
 	
@@ -139,7 +139,7 @@ ya da
 	
 	$ man rm
 
-diyebilirisiniz. Daha fazla bilgi edinmek için: `Ubuntu'da terminal kullanımı <https://help.ubuntu.com/community/UsingTheTerminal>`_(ingilizce) sayfasını ziyaret edbilirsiniz.
+diyebilirisiniz. Daha fazla bilgi edinmek için: `Ubuntu'da terminal kullanımı <https://help.ubuntu.com/community/UsingTheTerminal>`_ (ingilizce) sayfasını ziyaret edbilirsiniz.
 
 
 

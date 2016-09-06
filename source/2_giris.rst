@@ -3,7 +3,7 @@ Robot İşletim Sistemi'ne (ROS) Giriş
 
 ROS(Robot Operating System ya da Robotik İşletim Sistemi), robot yazılımı geliştirmek ve heterojen bir bilgisayar kümesini işlevselleştirmek gibi işler için derlenilmiş kütüphane ve araçlar barındıran yazılım iskeletlerinden oluşur. Ek olarak, donanım soyutlaması, aygıt sürücüleri, kütüphaneler, görselleştiriciler, mesaj iletimi ve paket yönetimi vs. sunar.
 
-ROS tabanlı çalışan işlemler grafikte gösterilebilir şekilde tasarlanmıştır. Bu mimari grafiklerle düğümlerin çoklu sensör, kontrol mekanizmaları, konum, tetikleyici ve diğer işlemlerin mesajları gösterilir. For more basic information, visit: `ROS - Wikipedia <https://en.wikipedia.org/wiki/Robot_Operating_System>`_(İngilizce).
+ROS tabanlı çalışan işlemler grafikte gösterilebilir şekilde tasarlanmıştır. Bu mimari grafiklerle düğümlerin çoklu sensör, kontrol mekanizmaları, konum, tetikleyici ve diğer işlemlerin mesajları gösterilir. For more basic information, visit: `ROS Wikipedia <https://en.wikipedia.org/wiki/Robot_Operating_System>`_(İngilizce).
 
 ROS, şuan için yanlızca UNIX tabanlı işletim sistemlerinde çalışmaktadır. ROS için yazılan yazılımlar öncelikle Ubuntu ve Mac OS X'de test edilmektedir. Yine de   contributing support Fedora, Gentoo, Arch Linux ve diğre Linux platformları da ROS Topluluğunca desteklenmektedir.
 
